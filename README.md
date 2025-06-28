@@ -3,7 +3,7 @@
 Astra is a real-time, secure chat application built using modern web technologies. Designed for seamless communication, Astra supports user authentication, responsive UI, and scalable deployment using Docker and AWS. 
   
 ## 🌟 Features
-  
+   
 - 🔐 JWT-based authentication 
 - 💬 Real-time messaging with WebSocket (Socket.io)
 - 🎨 Responsive UI built with React 
